@@ -1,0 +1,98 @@
+{
+    "instrument_data": {
+        "MONOLOGUE": {
+            "midi_port": "1",
+            "midi_chan": 1,
+            "track_values": {
+                "slot_1": {
+                    "MIDI_CC": 43,
+                    "label": "CUTOFF"
+                },
+                "slot_2": {
+                    "MIDI_CC": 44,
+                    "label": "RESONA"
+                },
+                "slot_3": {
+                    "MIDI_CC": 28,
+                    "label": "DRIVE"
+                },
+                "slot_4": {
+                    "MIDI_CC": 35,
+                    "label": "P-VCO2"
+                },
+                "slot_5": {
+                    "MIDI_CC": 36,
+                    "label": "SHPVC1"
+                },
+                "slot_6": {
+                    "MIDI_CC": 37,
+                    "label": "SHPVC2"
+                },
+                "slot_7": {
+                    "MIDI_CC": 39,
+                    "label": "LEVCO1"
+                },
+                "slot_8": {
+                    "MIDI_CC": 40,
+                    "label": "LEVCO2"
+                },
+                "slot_9": {
+                    "MIDI_CC": 49,
+                    "label": "OCTVC2"
+                },
+                "slot_10": {
+                    "MIDI_CC": 50,
+                    "label": "WAVCO1"
+                },
+                "slot_11": {
+                    "MIDI_CC": 51,
+                    "label": "WAVCO2"
+                },
+                "slot_12": {
+                    "MIDI_CC": 60,
+                    "label": "SYNCRG"
+                },
+                "slot_13": {
+                    "MIDI_CC": 56,
+                    "label": "LFOTRG"
+                },
+                "slot_14": {
+                    "MIDI_CC": 58,
+                    "label": "LFOWAV"
+                },
+                "slot_15": {
+                    "MIDI_CC": 59,
+                    "label": "LFOMOD"
+                },
+                "slot_17": {
+                    "MIDI_CC": 24,
+                    "label": "LFORAT"
+                },
+                "slot_18": {
+                    "MIDI_CC": 26,
+                    "label": "LFODPH"
+                },
+                "slot_19": {
+                    "MIDI_CC": 16,
+                    "label": "EGATAK"
+                },
+                "slot_20": {
+                    "MIDI_CC": 15,
+                    "label": "EGDECY"
+                },
+                "slot_21": {
+                    "MIDI_CC": 25,
+                    "label": "EG INT"
+                },
+                "slot_23": {
+                    "MIDI_CC": 61,
+                    "label": "EGTYPE"
+                },
+                "slot_24": {
+                    "MIDI_CC": 62,
+                    "label": "EGTRGT"
+                }
+            }
+        }
+    }
+}

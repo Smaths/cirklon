@@ -1,0 +1,53 @@
+{
+	"instrument_data" :
+	{
+		"JV-1080" :
+		{
+			"midi_port" : 5,
+			"midi_chan" : 1,
+			"multi" : true,
+			"default_note" : "C 4",
+			"default_patt" : "CK",
+			"poly_spread" : "off",
+			"track_values" :
+			{
+				"slot_1" : { "MIDI_CC" : 1, "label" : "ModWhl" },
+				"slot_2" : { "MIDI_CC" : 74, "label" : "Ctrl 1" },
+				"slot_3" : { "MIDI_CC" : 71, "label" : "Ctrl 2" },
+				"slot_5" : { "MIDI_CC" : 91, "label" : "Reverb" },
+				"slot_6" : { "MIDI_CC" : 93, "label" : "Chorus" },
+				"slot_7" : { "track_control" : "xpos" },
+				"slot_8" : { "track_control" : "octave" },
+				"slot_9" : { "track_control" : "note%" },
+				"slot_10" : { "track_control" : "pgm" },
+				"slot_11" : { "MIDI_CC" : 0, "label" : "BankM" },
+				"slot_12" : { "MIDI_CC" : 32, "label" : "BankL" }
+			},
+			
+			"CC_defs" :
+			{
+				"CC_0" : { "label" : "BankM", "min_val" : 80, "max_val" : 81, "start_val" : 80 },
+				"CC_1" : { "label" : "ModWhl" },
+				"CC_7" : { "label" : "Volume", "min_val" : 0, "max_val" : 127, "start_val" : 90 },
+				"CC_10" : { "label" : "Pan", "min_val" : 0, "max_val" : 127, "start_val" : 63 },
+				"CC_32" : { "label" : "BankL", "min_val" : 0, "max_val" : 3 },
+				"CC_71" : { "label" : "Ctrl 2" },
+				"CC_74" : { "label" : "Ctrl 1" },
+				"CC_91" : { "label" : "Reverb" },
+				"CC_93" : { "label" : "Chorus" }
+			},
+			
+			"row_defs" :
+			{
+				"C 3" : { "label" : "BD1"},
+				"D 3" : { "label" : "SN1"},
+				"D#3" : { "label" : "CLP"},
+				"F 3" : { "label" : "BD2"},
+				"G#3" : { "label" : "CH1"},
+				"A#3" : { "label" : "OH1"},
+				"C 4" : { "label" : "TD1"},
+				"D#4" : { "label" : "PRC"}
+			}
+		}
+	}
+}
