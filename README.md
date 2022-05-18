@@ -1,7 +1,7 @@
 ![My image](https://images.squarespace-cdn.com/content/v1/5808f139b8a79b2b73259cd1/1607704111422-6KOQLH1RIU83QTDH7N0A/P1000365%281%29.jpg?format=1000w)
 
 # Cirklon Instrument Definitions
-Instrument definitions for sequentix cirklon.
+Instrument definitions for sequentix cirklon located in the `instruments` folder.
 - **Roland JV-1080**
 - **Korg Monologue** ([copied](http://forum.sequentix.com/viewtopic.php?p=18417&hilit=monologue#p18417) from sequentix forum user Ripperton)
 
@@ -11,8 +11,6 @@ Instrument definitions for sequentix cirklon.
 
 <details>
   <summary>JV-1080 Instrument Instructions</summary>
-
-## JV-1080 Instrument Definition Instructions
 
 ### Exposed Parameters
 1. Mod Wheel (CC #1) 
