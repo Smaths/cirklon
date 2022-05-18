@@ -1,3 +1,5 @@
+![My image](https://images.squarespace-cdn.com/content/v1/5808f139b8a79b2b73259cd1/1607704111422-6KOQLH1RIU83QTDH7N0A/P1000365%281%29.jpg?format=1000w)
+
 # Cirklon Instrument Definitions
 Instrument definitions for sequentix cirklon.
 - **Roland JV-1080**
