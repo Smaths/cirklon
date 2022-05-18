@@ -1,12 +1,15 @@
-![My image](https://images.squarespace-cdn.com/content/v1/5808f139b8a79b2b73259cd1/1607704111422-6KOQLH1RIU83QTDH7N0A/P1000365%281%29.jpg?format=1000w)
-
 # Cirklon Instrument Definitions
 Instrument definitions for sequentix cirklon located in the `instruments` folder.
 
-### **Roland JV-1080**
+- **Roland JV-1080**
 
+- **Korg Monologue** ([Copied](http://forum.sequentix.com/viewtopic.php?p=18417&hilit=monologue#p18417) from sequentix forum user Ripperton.)
+
+![My image](https://images.squarespace-cdn.com/content/v1/5808f139b8a79b2b73259cd1/1607704111422-6KOQLH1RIU83QTDH7N0A/P1000365%281%29.jpg?format=1000w)
+
+## Additional Info 
 <details>
-  <summary>Notes & Instructions (click to expand)</summary>
+  <summary>Roland JV-1080 Notes & Instructions (click to expand)</summary>
 
   ### Exposed Parameters
   |Parameter|CC#|
@@ -63,6 +66,3 @@ Instrument definitions for sequentix cirklon located in the `instruments` folder
   Mod | ON
   Aft | ON
 </details>
-
-### **Korg Monologue** 
-[Copied](http://forum.sequentix.com/viewtopic.php?p=18417&hilit=monologue#p18417) from sequentix forum user Ripperton.
