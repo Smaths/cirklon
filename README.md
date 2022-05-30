@@ -1,13 +1,24 @@
 # Cirklon Instrument Definitions
 Instrument definitions for sequentix cirklon located in the `instruments` folder.
 
-- **Roland JV-1080**
-
+- **Elektron Machinedrum**
 - **Korg Monologue** ([Copied](http://forum.sequentix.com/viewtopic.php?p=18417&hilit=monologue#p18417) from sequentix forum user Ripperton.)
+- **Roland JV-1080**
 
 ![My image](https://images.squarespace-cdn.com/content/v1/5808f139b8a79b2b73259cd1/1607704111422-6KOQLH1RIU83QTDH7N0A/P1000365%281%29.jpg?format=1000w)
 
 ## Additional Info 
+
+<details>
+  <summary>Machinedrum Notes & Instructions (click to expand)</summary>
+  
+  ### MIDI Settings
+  - The default MIDI settings are required for this instrument definition to work. Specifically the setting the `Base MIDI Channels` to 1-4.
+  - Each sound machine (1-16) has a dedicated instrument in order to provide access to all the parameters. 
+  - _Suggestion: On the cirklon, I have tracks 16-32 configured to match the machinedrums respective sound machines._
+  
+</details>
+
 <details>
   <summary>Roland JV-1080 Notes & Instructions (click to expand)</summary>
 
@@ -20,7 +31,7 @@ Instrument definitions for sequentix cirklon located in the `instruments` folder
   Reverb EFX Level | CC #91
   Chorus EFX Level | CC #93
   
-  \* _User-assigned in JV-1080 system settings. See instructions below_
+  \* _User-assigned in JV-1080 system settings. See instructions below._
 
   ### Notes
   - The JV-1080 doesn’t expose very many parameters via MIDI CC. No filter cutoff, resonance, amp envelope where you might expect to find them. Instead, there are 3 assignable (including the mod wheel) parameters. 

@@ -1,0 +1,72 @@
+{
+	"instrument_data" :
+	{
+		"MD10-OH" :
+		{
+			"midi_port" : 1,
+			"midi_chan" : 3,
+			"default_note" : "E 4",
+			"default_patt" : "P3",
+			"poly_spread" : "off",
+			"no_bankM" : true,
+			"no_bankL" : true,
+			"track_values" :
+			{
+				"slot_1" : { "MIDI_CC" : 40, "label" : "Pitch" },
+				"slot_2" : { "MIDI_CC" : 41, "label" : "Decay" },
+				"slot_4" : { "MIDI_CC" : 57, "label" : "Vol" },
+				"slot_5" : { "MIDI_CC" : 58, "label" : "Pan" },
+				"slot_6" : { "MIDI_CC" : 9, "label" : "Level" },
+				"slot_7" : { "MIDI_CC" : 42, "label" : "MchnP3" },
+				"slot_8" : { "MIDI_CC" : 43, "label" : "MchnP4" },
+				"slot_9" : { "MIDI_CC" : 44, "label" : "MchnP5" },
+				"slot_10" : { "MIDI_CC" : 45, "label" : "MchnP6" },
+				"slot_11" : { "MIDI_CC" : 46, "label" : "MchnP7" },
+				"slot_12" : { "MIDI_CC" : 47, "label" : "MchnP8" },
+				"slot_13" : { "MIDI_CC" : 52, "label" : "FltrL" },
+				"slot_14" : { "MIDI_CC" : 53, "label" : "FltrH" },
+				"slot_15" : { "MIDI_CC" : 54, "label" : "FltrQ" },
+				"slot_17" : { "MIDI_CC" : 50, "label" : "EQFreq" },
+				"slot_18" : { "MIDI_CC" : 51, "label" : "EQGain" },
+				"slot_19" : { "MIDI_CC" : 48, "label" : "AMDpth" },
+				"slot_20" : { "MIDI_CC" : 49, "label" : "AMRate" },
+				"slot_21" : { "MIDI_CC" : 55, "label" : "SRR" },
+				"slot_22" : { "MIDI_CC" : 56, "label" : "Dist" },
+				"slot_23" : { "MIDI_CC" : 59, "label" : "Delay" },
+				"slot_24" : { "MIDI_CC" : 60, "label" : "Reverb" },
+				"slot_25" : { "MIDI_CC" : 61, "label" : "LFOSpd" },
+				"slot_26" : { "MIDI_CC" : 62, "label" : "LFOAmt" },
+				"slot_27" : { "MIDI_CC" : 63, "label" : "LFOShp" }
+			},
+			
+			"CC_defs" :
+			{
+				"CC_9" : { "label" : "Level" },
+				"CC_40" : { "label" : "Pitch" },
+				"CC_41" : { "label" : "Decay" },
+				"CC_42" : { "label" : "MchnP3" },
+				"CC_43" : { "label" : "MchnP4" },
+				"CC_44" : { "label" : "MchnP5" },
+				"CC_45" : { "label" : "MchnP6" },
+				"CC_46" : { "label" : "MchnP7" },
+				"CC_47" : { "label" : "MchnP8" },
+				"CC_48" : { "label" : "AMDpth" },
+				"CC_49" : { "label" : "AMRate" },
+				"CC_50" : { "label" : "EQFreq" },
+				"CC_51" : { "label" : "EQGain" },
+				"CC_52" : { "label" : "FltrL" },
+				"CC_53" : { "label" : "FltrH" },
+				"CC_54" : { "label" : "FltrQ" },
+				"CC_55" : { "label" : "SRR" },
+				"CC_56" : { "label" : "Dist" },
+				"CC_57" : { "label" : "Vol" },
+				"CC_58" : { "label" : "Pan" },
+				"CC_59" : { "label" : "Delay" },
+				"CC_60" : { "label" : "Reverb" },
+				"CC_61" : { "label" : "LFOSpd" },
+				"CC_62" : { "label" : "LFOAmt" },
+				"CC_63" : { "label" : "LFOShp" }
+			}
+		}
+	}
+}
